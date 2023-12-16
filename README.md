@@ -1,5 +1,5 @@
 ### Hi! 👋 My name is Niko. Welcome! :v:
-- I'm 28 old programmer from Republic of Tuva.
+- I am 28 year old programmer from Republic of Tuva.
 - I learn Java at [Job4j](https://job4j.ru/)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=NikoSalchak&hide=stars,prs,issues,contribs)

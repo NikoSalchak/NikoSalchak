@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi! 👋 My name is Niko. Welcome! :v:
+- I'm 28 old programmer from Republic of Tuva.
+- I learn Java at [Job4j](https://job4j.ru/)
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=NikoSalchak&hide=stars,prs,issues,contribs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikoSalchak&layout=compact)](https://github.com/ShamRail/github-readme-stats)
 <!--
 **NikoSalchak/NikoSalchak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
